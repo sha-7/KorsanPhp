@@ -6,6 +6,8 @@
         "guzzlehttp/guzzle": "^6.2",
         "symfony/console": "^3.1",
         "symfony/filesystem": "^3.1",
-        "fzaninotto/faker": "^1.6"
+        "fzaninotto/faker": "^1.6",
+        "phpseclib/phpseclib": "^2.0",
+        "fabpot/goutte": "^3.1"
     }
 }
