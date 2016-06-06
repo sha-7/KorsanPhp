@@ -1,0 +1,11 @@
+{
+    "name": "sha-7/korsanphp",
+    "description": "Black or white, just make sure you're wearing a hat.",
+    "require": {
+        "psy/psysh": "^0.7.2",
+        "guzzlehttp/guzzle": "^6.2",
+        "symfony/console": "^3.1",
+        "symfony/filesystem": "^3.1",
+        "fzaninotto/faker": "^1.6"
+    }
+}
